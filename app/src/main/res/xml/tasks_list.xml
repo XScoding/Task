@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tasks>
+    <task
+        key="first"
+        class= "com.xs.task.imp.FirstTask" />
+    <task
+        key="second"
+        class= "com.xs.task.imp.SecondTask" />
+</tasks>
